@@ -2,14 +2,15 @@
 
 ## 待办事项
 
-  2. 酒店
   3. 行程
+  2. 酒店
   5. 租网络设备
   6. 西瓜卡
+  7. 去机场的方法 
   7. 自拍杆
   8. GoPro
   9. Wifi SD卡
-  10. 船票
+  11. 开通信用卡境外无卡支付
  
 ## 交通
 
@@ -37,7 +38,10 @@
 - [JALAN 日本酒店預訂教學](http://www.discuss.com.hk/viewthread.php?tid=6738693&extra=page%3D1)
 
 ### 东京
-
+- 上野
+	- [Ueno Hotel 476RMB](http://www.agoda.com/zh-cn/ueno-hotel/hotel/tokyo-jp.html?asq=mbtnRq82z%2bseDpxq%2bleSnwj9K5SR6knCMQPc5GLbA7XD5gAnQeOjUjuiFC6Keoxm2cMJZu%2fWb5oZoVx83G9qMEBFVicjqiISvorm6pMKzWjGdAbnC82HMCF%2bw24KfDtN5cflRLvMUSEb19hQUlORDLoXOxsU7DH5BTULsqOvQI7%2bxSZ0up36DxttK3QheZmxb4zjLqWl2%2bnfgfpwUd1%2fGeISSxyCGRS1SQcTaq4F6j0rD0Tje4%2bjDShQCHxj1oLBfoFAOed6BazULXCwlB413qWL%2bj559KJ%2f8xTmLvBXJdeYqE9MkBmIr0B0ERd6IJLv4YLn9GcCn53zLPCLOLrTpMq7v4w2q6ZWi%2bCN0XFd%2b09VY4DXfguY0VYvUhXc6Rl3qeI4dnhmX7AkPMuSyLjIQbjoOi7NTqhtOYcBDdqxfKXfZXZRNr8gcMaZvb3Pd0%2b3&cid=1451235)
+	- [Hotel MyStays Ueno Iriyaguchi 625RMB](http://www.agoda.com/zh-cn/hotel-mystays-ueno-iriyaguchi/hotel/tokyo-jp.html?asq=9SrPbTOaAhIpHKK6prDXpEPMyGOVxUZLdbZPnKAO7hfZwwlm79ZvmhmhXHzcb2owQEVWJyOqIhK%2biubqkwrNaMZ0BucLzYcwIX7Dbgp8O03lx%2bVEu8xRIRvX2FBSU5EMM%2f%2bx2FZ0C7iwG%2f907BSkjF8yuDBetFf9CeUYXEJp3tQk64tQTTT5hSSUUFyyHy6680xbdnyW6Omc3XQIlis3DzGWV5hJCb9Lgl0lN7pCMTyJnzprX2PhfHK9C2s%2fK4gqNPBYiau%2bRad8%2f%2f4ukvLR9pyQJPDMY4oHPsHmSGQaD6HjWADeJh7cBKQ%2bzP3nGFCHwd5Cda0nMKIHibjqNfWjAXV6hjk%2bqLJALceDjNPiL2OSVsy9GQDIAGhZYG205nuZANULAoJAlUczv0yjTCE0LA%3d%3d&cid=1451235)
+	- [上野百夫长酒店 (Centurion Hotel Ueno) 567RMB 不可取消](http://www.agoda.com/zh-cn/centurion-hotel-ueno/hotel/tokyo-jp.html?asq=mbtnRq82z%2bseDpxq%2bleSnwj9K5SR6knCMQPc5GLbA7XD5gAnQeOjUjuiFC6Keoxm2cMJZu%2fWb5oZoVx83G9qMEBFVicjqiISvorm6pMKzWjGdAbnC82HMCF%2bw24KfDtN5cflRLvMUSEb19hQUlORDEj2BHCn74AQ1DfCs7oL%2bW1fMrgwXrRX%2fQnlGFxCad7UJOuLUE00%2bYUklFBcsh8uutDCWpvpQGpwub6ThMb3ezLR9rAMNIvNDiZ08icaueWliNxvjl%2bZ%2fShUVcmmhymWFFVjgNd%2bC5jRVi9SFdzpGXep4jh2eGZfsCQ8y5LIuMhBuOg6Ls1OqG05hwEN2rF8pQhF8mi8XYkZUDkjaAa5Muo4JhqPZeekuJa%2bUoSdUegD6LnDEPrpSGP3x%2fofG4HPcbJbyYrMO9HQ8e12CyncEcwUCxN2HGwJ3oaZOwa8Wls93qM0chiZadOwseNU%2bF1NKyQYwIYX6yqXchyUCl4JAoM%3d&cid=1451235)
 #### 民宿
 
 ##### 東京 新宿 [景雲荘](https://www.youtube.com/watch?v=K0_0khIGdj4)
@@ -60,6 +64,7 @@
 - 上野东横inn
 - [VF汐留](http://linshibi.com/?p=1250)
 - [东京亲子遊推荐住宿--MyStays Inn Asakusa-bashi](http://www.backpackers.com.tw/forum/showthread.php?t=861503)
+- 东京芬迪别墅汐留酒店
 
 ### 箱根
 
@@ -73,25 +78,48 @@
 ## 玩
 
   * 六本木之丘
-  * 上野动物园 + 台场（彩虹桥、自由女神像、高达模型、台场摩天轮、富士电视台、TOYOTA ）（**选**）
+  * 上野（**选**）
+	  * 上野之森艺术馆
+	  * 国立西洋美术馆（莫奈）
+	  * 东京国立博物馆（一般般）
+	  * 上野公园（食：伊豆荣梅川亭鳗鱼饭）
+	  * 动物园
+	  * 东大
+		  * 银杏大道
+  * 台场（**选**）（彩虹桥、自由女神像、高达模型、台场摩天轮、富士电视台、TOYOTA）
+  * 筑地（外场）（**选**）
+  * 秋叶原
   * 三鹰之森吉卜力美术馆
   * 东京迪士尼（**选**）
   * [新宿玩具美术馆](http://www.backpackers.com.tw/forum/showthread.php?t=1248727)
   * [八景岛乐园](http://place.qyer.com/poi/V2UJYlFgBz9TYlI7/)
-  * 箱根雕刻の森美术馆（**选**）
   * 品川水族馆
   * [大宫铁道博物馆](http://www.railway-museum.jp/cn/information.html)
   * [丰岛园](http://www.toshimaen.co.jp/)
   * 东京SUMMER LAND
+  * 江之岛
   * 东京德国村
   * [小朋友的城堡樂園-こどもの城](http://choyce.pixnet.net/blog/post/46254544-\(%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC%E9%83%BD\)-%E5%B0%8F%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%9F%8E%E5%A0%A1%E6%A8%82%E5%9C%92-%E3%81%93%E3%81%A9%E3%82%82%E3%81%AE%E5%9F%8E)
   * 箱根（**选**）
+	  * 箱根有3日（小田急）套票，新宿去最方便
+	  * 空中缆车@大涌谷（but要行山）
+	  * 箱根雕刻の森美术馆（**选**）
+	  * 小王子博物馆
 
 ### 爬文
 
 - [[東京自由行] 台場鋼彈 & Diver City @ 鋼彈迷，朝聖去～](http://lohas.pixnet.net/blog/post/41496091)
 - [[東京迪士尼交通懶人包] 如何前往東京迪士尼 @ 電車、巴士交通方式 + 如何購買迪士尼門票 + 東京迪士尼官方推薦飯店](http://lohas.pixnet.net/blog/post/41397040)
+- [Youtube瓹窿瓹罅遊東京](https://www.youtube.com/user/tomppylam/videos)
+- [L&Rの东京箱根日记](http://www.mafengwo.cn/i/3280316.html)
  
+#### 築地獅子祭
+> 波除稻荷神社因民眾前往祈求消災解厄、生意興隆、施工安全而聞名。從江戶開府（1603年）前著手進行的江戶東南海面填平工程中，築地是只要一築堤防就會遭到沖毀的最大難關。但，某天夜裡在海面上出現了一尊神像，加以祭拜後竟然就此風平浪靜，工程亦於1659年順利完成。據說當時抬起乘雲之龍、駕風之虎、一吼萬物皆畏伏之獅子的巨大獅頭繞行儀式，即為「築地獅子祭」的開端。
+> 
+> - 地址：中央區 築地6-20-37 波除稻荷神社
+> - 網站URL：[http://www.namiyoke.or.jp/](http://www.namiyoke.or.jp/)
+> - 日程：2015.6.10 - 2015.6.14
+
 #### 山王祭
 > 山王祭与神田祭、深川祭一起并称为江户三大祭。同时，山王祭还列为日本三大祭，是历史悠久的盛大祭典活动。将军准许进入江户城的著名祭典。祭典为11天，每天都有不同的活动举行。其中有”例祭奉幣 -皇城鎮護都民平安祈願-“的活动，还有祭神舞乐表演、山王太鼓等日本传统艺术的表演和民俗舞蹈大会，以及山王儿童祭等。
 > 
@@ -110,6 +138,7 @@
 - [[東京米其林美食推薦] 2015米其林推薦22間 東京拉麵店名單 @ 拉麵控到東京必吃的名單](http://lohas.pixnet.net/blog/post/41752930)
 - [[涉谷美食好吃拉麵推薦] 一蘭拉麵 涉谷店 @ 24小時的必吃美味啊～](http://lohas.pixnet.net/blog/post/41438872)
 - 利久牛舌
+- 伊達牛舌
 - 麵屋一燈（等）
 
 ### 箱根
