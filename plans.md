@@ -1,4 +1,4 @@
-# 2015 日本旅游计划
+# 2015 日本旅游计划 平成27年
 
 ## 待办事项
 
@@ -9,9 +9,11 @@
   7. 去机场的方法 
   7. 自拍杆
   8. GoPro
-  9. Wifi SD卡
+  9. 镜头
   11. 开通信用卡境外无卡支付
   12. 出发前查清楚各美术馆展览项目
+  13. 网上登机
+  14. 现金预算
  
 ## 交通
 
@@ -28,6 +30,8 @@
 
 [[2015東京交通優惠] NEX TOKYO Round TripTicket 來回票 4,000yen 2015/3/14起發售](http://lohas.pixnet.net/blog/post/40166908)
 
+[查询网站](http://www.jorudan.co.jp/)
+
 ### 车
 
 
@@ -36,10 +40,13 @@
 **要求：和室、温泉旅馆、民宿、亲子酒店**
 
 - [东京便宜住宿（含旅馆、民宿）一览/懒人包](http://www.backpackers.com.tw/forum/showthread.php?t=44410)
-- [JALAN 日本酒店預訂教學](http://www.discuss.com.hk/viewthread.php?tid=6738693&extra=page%3D1)
+- [JALAN 日本酒店預訂教學](http://www.discuss.com.hk/viewthread.php?tid=6738693&extra=page%3D1) [中文站](http://www.jalan.net/cn/japan_hotels_ryokan/)
 
 ### 东京
 - 上野
+	- [SAKURA RYOKAN](http://www.sakura-ryokan.com/)
+	- [Tokyo Ryokan](http://www.tokyoryokan.com/)
+	- [Sutton Place Hotel](http://www.thehotel.co.jp/jp/sutton_ueno/)
 	- [Ueno Hotel 476RMB](http://www.agoda.com/zh-cn/ueno-hotel/hotel/tokyo-jp.html?asq=mbtnRq82z%2bseDpxq%2bleSnwj9K5SR6knCMQPc5GLbA7XD5gAnQeOjUjuiFC6Keoxm2cMJZu%2fWb5oZoVx83G9qMEBFVicjqiISvorm6pMKzWjGdAbnC82HMCF%2bw24KfDtN5cflRLvMUSEb19hQUlORDLoXOxsU7DH5BTULsqOvQI7%2bxSZ0up36DxttK3QheZmxb4zjLqWl2%2bnfgfpwUd1%2fGeISSxyCGRS1SQcTaq4F6j0rD0Tje4%2bjDShQCHxj1oLBfoFAOed6BazULXCwlB413qWL%2bj559KJ%2f8xTmLvBXJdeYqE9MkBmIr0B0ERd6IJLv4YLn9GcCn53zLPCLOLrTpMq7v4w2q6ZWi%2bCN0XFd%2b09VY4DXfguY0VYvUhXc6Rl3qeI4dnhmX7AkPMuSyLjIQbjoOi7NTqhtOYcBDdqxfKXfZXZRNr8gcMaZvb3Pd0%2b3&cid=1451235)
 	- [Hotel MyStays Ueno Iriyaguchi 625RMB](http://www.agoda.com/zh-cn/hotel-mystays-ueno-iriyaguchi/hotel/tokyo-jp.html?asq=9SrPbTOaAhIpHKK6prDXpEPMyGOVxUZLdbZPnKAO7hfZwwlm79ZvmhmhXHzcb2owQEVWJyOqIhK%2biubqkwrNaMZ0BucLzYcwIX7Dbgp8O03lx%2bVEu8xRIRvX2FBSU5EMM%2f%2bx2FZ0C7iwG%2f907BSkjF8yuDBetFf9CeUYXEJp3tQk64tQTTT5hSSUUFyyHy6680xbdnyW6Omc3XQIlis3DzGWV5hJCb9Lgl0lN7pCMTyJnzprX2PhfHK9C2s%2fK4gqNPBYiau%2bRad8%2f%2f4ukvLR9pyQJPDMY4oHPsHmSGQaD6HjWADeJh7cBKQ%2bzP3nGFCHwd5Cda0nMKIHibjqNfWjAXV6hjk%2bqLJALceDjNPiL2OSVsy9GQDIAGhZYG205nuZANULAoJAlUczv0yjTCE0LA%3d%3d&cid=1451235)
 	- [上野百夫长酒店 (Centurion Hotel Ueno) 567RMB 不可取消](http://www.agoda.com/zh-cn/centurion-hotel-ueno/hotel/tokyo-jp.html?asq=mbtnRq82z%2bseDpxq%2bleSnwj9K5SR6knCMQPc5GLbA7XD5gAnQeOjUjuiFC6Keoxm2cMJZu%2fWb5oZoVx83G9qMEBFVicjqiISvorm6pMKzWjGdAbnC82HMCF%2bw24KfDtN5cflRLvMUSEb19hQUlORDEj2BHCn74AQ1DfCs7oL%2bW1fMrgwXrRX%2fQnlGFxCad7UJOuLUE00%2bYUklFBcsh8uutDCWpvpQGpwub6ThMb3ezLR9rAMNIvNDiZ08icaueWliNxvjl%2bZ%2fShUVcmmhymWFFVjgNd%2bC5jRVi9SFdzpGXep4jh2eGZfsCQ8y5LIuMhBuOg6Ls1OqG05hwEN2rF8pQhF8mi8XYkZUDkjaAa5Muo4JhqPZeekuJa%2bUoSdUegD6LnDEPrpSGP3x%2fofG4HPcbJbyYrMO9HQ8e12CyncEcwUCxN2HGwJ3oaZOwa8Wls93qM0chiZadOwseNU%2bF1NKyQYwIYX6yqXchyUCl4JAoM%3d&cid=1451235)
@@ -63,9 +70,10 @@
 
 - 台场的美丽殿
 - 上野东横inn
-- [VF汐留](http://linshibi.com/?p=1250)
-- [东京亲子遊推荐住宿--MyStays Inn Asakusa-bashi](http://www.backpackers.com.tw/forum/showthread.php?t=861503)
-- 东京芬迪别墅汐留酒店
+- 东京芬迪别墅汐留酒店 [VF汐留](http://linshibi.com/?p=1250)
+- [东京亲子遊推荐住宿--MyStays Inn Asakusa-bashi](http://www.backpackers.com.tw/forum/showthread.php?t=861503) (NO)
+- [Hotel Villa Fontaine Tamachi（田町维拉方丹酒店）](http://www.booking.com/hotel/jp/villa-fontaine-tamachi.zh-cn.html?sid=05ab59cad0b80b945504ff8137a56f53;dcid=4;checkin=2015-06-10;checkout=2015-06-15;dist=0;srfid=a430fa42f2453242be7198e8e6d2e4b8eda095dfX7;type=total;ucfs=1&#map_closed)
+- [Hotel MyStays Hamamatsucho（浜松町MyStays酒店）](http://www.booking.com/hotel/jp/mystays-hamamatsucho.zh-cn.html?sid=05ab59cad0b80b945504ff8137a56f53;dcid=4;checkin=2015-06-10;checkout=2015-06-15;dist=0;srfid=a430fa42f2453242be7198e8e6d2e4b8eda095dfX3;type=total;ucfs=1&#map_closed)
 
 ### 箱根
 
@@ -80,32 +88,41 @@
 
 * 上野圈（1天）
   * 上野（**选**）
-	  * 上野之森艺术馆
-	  * 国立西洋美术馆（莫奈）
+	  * 上野之森艺术馆（2015年5月28日（木）～ 6月7日（日）第6回 東山魁夷記念 日経日本画大賞展）
+	  * 国立西洋美术馆（「[FUN DAY 2015](http://www.nmwa.go.jp/jp/events/fun-day.html)」2015年6月13日（土）、14日（日））
 	  * 东京国立博物馆（一般般）
-	  * YAMASHIROYA
-	  * 上野公园（食：伊豆荣梅川亭鳗鱼饭）
+	  * 国立科学博物館
+	  * [YAMASHIROYA](http://lohas.pixnet.net/blog/post/41821522-%5B%E6%9D%B1%E4%BA%AC%E4%B8%8A%E9%87%8E%E7%8E%A9%E5%85%B7%5D-yamashiroya-%E7%8E%A9%E5%85%B7%E5%BA%97-@-%E4%B8%8A%E9%87%8E%E8%BB%8A%E7%AB%99%E5%BF%85)
+	  * [上野公园](http://www.kensetsu.metro.tokyo.jp/toubuk/ueno/index_top.html)（食：伊豆荣梅川亭鳗鱼饭）
 	  * 动物园
 	  * 东大
 		  * 银杏大道
   * 秋叶原
+  * 浅草寺
+  * 天空树
 * 三鹰之森吉卜力美术馆
-* 筑地圈（2天）
+* 筑地圈（可以考虑住汐留）
 	* 六本木之丘
-		* [森美术馆](http://www.douban.com/note/485295445/)
+		* [森美术馆](http://www.douban.com/note/485295445/)（簡約外形展 ）
 	* 筑地市场（外场）（**选**）
+	* 蟹道乐银座八丁目店
 	* [东京中央邮便局](http://www.douban.com/note/486062984/)
 	* 品川水族馆
-	* 台场（**选**）（彩虹桥、自由女神像、高达模型、台场摩天轮、富士电视台、TOYOTA）
+	* 东京塔
+	* 台场（**选**）（1天）（彩虹桥、自由女神像、高达模型、台场摩天轮、富士电视台、TOYOTA）
 		* 《GUMDAM STAND at Jaburo 哀・天使篇》（约13分钟、背景墙面有动画演出）19：30、20：30、21：30
 		* [KidZania](http://www.kidzania.jp/tokyo/ch/)
-	* 东京迪士尼（**选**）
-涉谷圈
+	* 东京迪士尼（**选**）（1天）
+* 涉谷圈
+	* 竹下通
+	* 皇居
+	* 一兰拉面
 	* [新宿玩具美术馆](http://www.backpackers.com.tw/forum/showthread.php?t=1248727)
 	* 新宿御苑
 	* [明治神宫](http://www.douban.com/note/485172842/)
 	* 表参道
 	* 原宿
+		* [Kiddy Land](http://www.kiddyland.co.jp/harajuku/)
 * 东京周边
 	* 藤子·F·不二雄博物馆
 	* 浅草有免费的[熊猫巴士](http://www.pandabus.net/)可搭!
@@ -113,11 +130,14 @@
   * [八景岛乐园](http://place.qyer.com/poi/V2UJYlFgBz9TYlI7/)  
   * 鎌倉市
   * 江之岛
-* 箱根（**选**）（3天）
+* 箱根（**选**）（3天）[截](http://www.hakonenavi.jp/cn/)
   * 箱根有3日（小田急）套票，新宿去最方便
   * 空中缆车@大涌谷（but要行山）
   * 箱根雕刻の森美术馆（**选**）
   * 小王子博物馆
+  * 河口湖温泉
+  * EVA屋 箱根汤本店
+  * 强罗公园
 
 ### 爬文
 
@@ -127,6 +147,7 @@
 - [L&Rの东京箱根日记](http://www.mafengwo.cn/i/3280316.html)
 - [东京小众自由行必做十四事之No.9 探寻一场日式古风](http://www.douban.com/note/496636826/)
 - [东京小众自由行必做十四事之No.6 逛游一家杂货店](http://www.douban.com/note/485894988/)
+- [東京迪士尼之小小孩攻略 (上)](http://naughtyangel.pixnet.net/blog/post/40951869)
  
 #### 築地獅子祭
 > 波除稻荷神社因民眾前往祈求消災解厄、生意興隆、施工安全而聞名。從江戶開府（1603年）前著手進行的江戶東南海面填平工程中，築地是只要一築堤防就會遭到沖毀的最大難關。但，某天夜裡在海面上出現了一尊神像，加以祭拜後竟然就此風平浪靜，工程亦於1659年順利完成。據說當時抬起乘雲之龍、駕風之虎、一吼萬物皆畏伏之獅子的巨大獅頭繞行儀式，即為「築地獅子祭」的開端。
@@ -143,7 +164,7 @@
 > - 开放时间：每年6月10日至16日。
 > - 地址：東京都千代田区永田町2丁目10番5号(查看地图)
 > - 电话：+81-3-3581-2471
->  -网址：http://www.tenkamatsuri.jp/
+>  -网址：[http://www.tenkamatsuri.jp/](http://www.tenkamatsuri.jp/)
 
 ## 食店
 
@@ -161,9 +182,36 @@
 
 ## 每天的旅行规划
 
-  * Day 1
-
-  * Day 2
+* 【Day 0】 6月4日 星期四，宿：铜锣湾维景酒店
+* 【Day 1】 6月5日 星期五，宿：Hotel Gracery Shinjuku (格拉斯丽新宿酒店) 
+	* 天后 -> 中环 -> 机场快线 100HKD 约45分钟
+	* 15:40 香港机场 
+	* 20:50 成田机场
+* 【Day 2】6月6日 星期六 
+	* 上野
+* 【Day 3】 6月7日 星期日 
+	* 新宿御苑
+* 【Day 4】 6月8日 星期一，宿：[箱根山景酒店](http://www.mvhakone.jp/chinese/index.html)
+	* 出发箱根
+* 【Day 5】 6月9日 星期二
+	* 箱根
+* 【Day 6】 6月10日 星期三，宿：Hotel Villa Fontaine Tokyo-Shiodome (東京汐留芬迪别墅酒店 )
+	* 鎌倉
+* 【Day 7】 6月11日 星期四
+	* 汐留 >> 月島 >> 新木場 >> 舞浜
+	* 迪迪尼
+* 【Day 8】6月12日 星期五
+	* 台场
+* 【Day 9】6月13日 星期六
+	* 13:00 夏越稚児祭
+	* 午前11時 ～午後3時	野点御茶席
+	* 18:00 献灯祭
+	* 12:50 狮子祭巡行开始
+* 【Day 10】6月14日 星期日
+	* 
+* 【Day 11】6月15日 星期一
+	* 10:50 成田机场
+	* 14:40 香港机场
 
 > ###【推荐行程】如果你带男孩子
 > - D1:上海飞抵东京，下午游台场Gundam Front Tokyo，住东京市内酒店（建议住新宿附近）。
